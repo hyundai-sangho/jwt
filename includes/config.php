@@ -1,0 +1,5 @@
+<?php
+
+const SECRET = 'chosanghoSecretKey';
+
+?>
